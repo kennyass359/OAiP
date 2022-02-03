@@ -1,0 +1,12 @@
+C:\Projects\Laba1_2OAiP\obj\Debug\Laba1_2OAiP.csprojAssemblyReference.cache
+C:\Projects\Laba1_2OAiP\obj\Debug\Laba1_2OAiP.Form1.resources
+C:\Projects\Laba1_2OAiP\obj\Debug\Laba1_2OAiP.Form2.resources
+C:\Projects\Laba1_2OAiP\obj\Debug\Laba1_2OAiP.Form3.resources
+C:\Projects\Laba1_2OAiP\obj\Debug\Laba1_2OAiP.Form4.resources
+C:\Projects\Laba1_2OAiP\obj\Debug\Laba1_2OAiP.Properties.Resources.resources
+C:\Projects\Laba1_2OAiP\obj\Debug\Laba1_2OAiP.csproj.GenerateResource.cache
+C:\Projects\Laba1_2OAiP\bin\Debug\Laba1_2OAiP.exe.config
+C:\Projects\Laba1_2OAiP\bin\Debug\Laba1_2OAiP.exe
+C:\Projects\Laba1_2OAiP\bin\Debug\Laba1_2OAiP.pdb
+C:\Projects\Laba1_2OAiP\obj\Debug\Laba1_2OAiP.exe
+C:\Projects\Laba1_2OAiP\obj\Debug\Laba1_2OAiP.pdb
